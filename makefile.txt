@@ -1,0 +1,2 @@
+default:
+	g++ Minesweeper/source.cpp -o project3.out -I"C:\SFML\include" -L"C:\SFML\lib" -lsfml-graphics -lsfml-window -lsfml-system
