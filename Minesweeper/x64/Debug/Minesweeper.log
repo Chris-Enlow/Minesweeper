@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(280,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(281,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(337,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(337,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(347,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(347,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(353,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(353,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(363,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(363,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(376,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\Minesweeper\main.cpp(377,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Minesweeper.vcxproj -> C:\Users\cje11\OneDrive\Desktop\COP3503\Minesweeper\x64\Debug\Minesweeper.exe
